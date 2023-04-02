@@ -1,0 +1,3 @@
+# you dont want to commit mac file sys junk
+# https://buildthis.com/ds_store-files-and-why-you-should-know-about-them/
+.DS_Store
