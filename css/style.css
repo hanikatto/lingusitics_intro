@@ -178,7 +178,7 @@ h1, h3, h4, h5, h6 {
 /* Inner Page Grid Container */
 .page-container {
     display: grid;
-    grid-template-columns: 5fr 2 fr;
+    grid-template-columns: 5fr 2fr;
     margin: 2rem 0;
     gap: 1.5rem;
 }
@@ -320,6 +320,38 @@ h1, h3, h4, h5, h6 {
 .text-portion {
     padding: 2rem 3rem;
 }
+
+.red-button {
+    background: red;
+    color: white;
+    padding: 1rem 1rem 1rem 1rem;
+    font-weight: bold;
+}
+
+/* Files Page */
+.files-box {
+    padding: 2rem;
+    background: white;
+}
+
+.files-box h1 {
+    color: #333;
+    padding-top: 2rem;
+}
+
+.files-box h2 {
+    color: blue;
+}
+
+.chapter-box {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.element {
+    padding-left: 2rem;
+}
+
 
 
 
